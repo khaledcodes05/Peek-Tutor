@@ -1,4 +1,4 @@
-# 🎓 Peer Tutor Booking Board
+# 🎓 Peek Tutor — Peer Mentorship Platform
 
 A modern, responsive peer mentorship platform where college students can discover verified peer tutors, compare tutors side by side, find real-time available time slots, book 1-on-1 study sessions, and manage reservations.
 
